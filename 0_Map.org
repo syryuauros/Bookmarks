@@ -1,4 +1,4 @@
 
 * [[./1_syryu.org][1.syryu]]
 * [[./2_auros.org][2.auros]]
-* [[./etc.org][etc]]
+* [[./0_Map.org][Map]]   [[https://github.com/syryuauros/Bookmarks][home]]
