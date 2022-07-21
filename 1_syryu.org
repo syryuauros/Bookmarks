@@ -1,4 +1,4 @@
 
 * [[./1_syryu.org][1.syryu]]
 * [[./2_auros][2.auros]]
-* [[./0_map.org][map]]
+* [[./0_Map.org][Map]]
