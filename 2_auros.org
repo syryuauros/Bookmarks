@@ -1,4 +1,4 @@
 
 * [[./2_1_nixos.org][2_1.nixos]]
 * [[./2_2_git][2_2.git]]
-* [[./etc.org][etc]]
+* [[./0_Map.org][Map]]
