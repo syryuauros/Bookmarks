@@ -4,8 +4,7 @@
 
 * [[https://velog.io/@noyo0123/git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%97%90%EB%9F%AC%EC%A0%95%EB%A6%AC-znk1zz2k5e][git 명령어 정리, 에러정리]]
 
-* [[https://velog.io/@luna238/Git-branch%EA%B5%AC%EC%A1%B0%EC%99%80-git%EB%AA%85%EB%A0%B9%EC%96%B4][branch구조와 git명령어
-]]
+* [[https://velog.io/@luna238/Git-branch%EA%B5%AC%EC%A1%B0%EC%99%80-git%EB%AA%85%EB%A0%B9%EC%96%B4][branch구조와 git명령어]]
 
 * [[https://velog.io/@bangina/%EC%95%84%EC%A7%81%EB%8F%84-Git%EC%9C%BC%EB%A1%9C-commit%EB%A7%8C%ED%95%B4-Git%ED%99%9C%EC%9A%A9%EB%B2%95-1.-Git-Stash][Git활용법 - 1. Git Stash]]
 
