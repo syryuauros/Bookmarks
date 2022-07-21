@@ -1,4 +1,4 @@
 
 * [[./2_1_nixos.org][2_1.nixos]]
 * [[./2_2_git.org][2_2.git]]
-* [[./0_Map.org][Map]]   [[.][home]]
+* [[./0_Map.org][Map]]   [[https://github.com/syryuauros/Bookmarks][home]]
