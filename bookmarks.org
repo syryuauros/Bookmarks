@@ -1,0 +1,15 @@
+* Work
+**  auros
+*** nix
+**** instructions
+ + https://nixos.org/manual/nixos/stable/index.html#ch-containers
+**** git
+**** emacs
+**** org mode
+**** linux
+**** HPC
+ + https://onlinelibrary.wiley.com/doi/full/10.1002/qua.26872#qua26872-bib-0038
+*** rcwa
+*** math
+*** computer science
+* Private
