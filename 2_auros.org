@@ -1,4 +1,4 @@
 
-* [[./1_syryu.org][1.syryu]]
-* [[./2_auros][2.auros]]
+* [[./2_1_nixos.org][2_1.nixos]]
+* [[./2_2_git][2_2.git]]
 * [[./etc.org][etc]]
